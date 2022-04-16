@@ -1,0 +1,21 @@
+.containerHeader {
+    width: 100%;
+    height: 60px;
+    background-color: #1a74dc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.buttonHome {
+    margin-left: 10px;
+}
+
+.title {
+    user-select: none;
+}
+
+.buttonMenu {
+    margin-right: 10px;
+}
