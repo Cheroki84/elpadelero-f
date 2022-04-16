@@ -1,0 +1,1 @@
+App para la Liga de Pádel de Puerto Serrano. En esta app se podrá ver todas las estadísticas de la liga. También cada jugador podrá anotar los resultados de los partidos en los que haya jugado, debiendo ser verificado el resultado por la pareja rival
